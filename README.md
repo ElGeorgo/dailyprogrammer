@@ -12,6 +12,8 @@ Easy
 
 [#131 Who tests the tests?](http://www.reddit.com/r/dailyprogrammer/comments/1heozl/070113_challenge_131_easy_who_tests_the_tests/)
 
+[#132 Greatest Common Divisor](http://www.reddit.com/r/dailyprogrammer/comments/1hvh6u/070813_challenge_132_easy_greatest_common_divisor/)
+
 
 Intermediate
 ============
