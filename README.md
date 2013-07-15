@@ -14,6 +14,8 @@ Easy
 
 [#132 Greatest Common Divisor](http://www.reddit.com/r/dailyprogrammer/comments/1hvh6u/070813_challenge_132_easy_greatest_common_divisor/)
 
+[#133 Foot-Traffic Analysis](http://www.reddit.com/r/dailyprogrammer/comments/1iambu/071513_challenge_133_easy_foottraffic_analysis/)
+
 
 Intermediate
 ============
