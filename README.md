@@ -22,3 +22,5 @@ Intermediate
 [#128 Covering Potholes](http://www.reddit.com/r/dailyprogrammer/comments/1g7gyi/061213_challenge_128_intermediate_covering/)
 
 [#129 N-Dimensional Vectors](http://www.reddit.com/r/dailyprogrammer/comments/1hzq9y/071013_challenge_129_intermediate_ndimensional/)
+
+[#130 Foot-Traffic Generator](http://www.reddit.com/r/dailyprogrammer/comments/1ihm0q/071713_challenge_130_intermediate_foottraffic/)
