@@ -16,6 +16,10 @@ Easy
 
 [#133 Foot-Traffic Analysis](http://www.reddit.com/r/dailyprogrammer/comments/1iambu/071513_challenge_133_easy_foottraffic_analysis/)
 
+[#134 N-Divisible Digits](http://www.reddit.com/r/dailyprogrammer/comments/1jtryq/080613_challenge_134_easy_ndivisible_digits/)
+
+[#135 Arithmetic Equations](http://www.reddit.com/r/dailyprogrammer/comments/1k7s7p/081313_challenge_135_easy_arithmetic_equations/)
+
 
 Intermediate
 ============
