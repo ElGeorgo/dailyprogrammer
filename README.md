@@ -20,6 +20,7 @@ Easy
 
 [#135 Arithmetic Equations](http://www.reddit.com/r/dailyprogrammer/comments/1k7s7p/081313_challenge_135_easy_arithmetic_equations/)
 
+[#136 Student Management](http://www.reddit.com/r/dailyprogrammer/comments/1kphtf/081313_challenge_136_easy_student_management/)
 
 Intermediate
 ============
